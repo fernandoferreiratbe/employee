@@ -1,4 +1,4 @@
-package src.main.java.io.github.fernandoferreiratbe.employees.domain;
+package io.github.fernandoferreiratbe.employees.domain;
 
 import java.util.List;
 
